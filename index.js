@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 'use strict';
 
 //tape server/**/*.test.js common/**/*.test.js lib/**/*.test.js client/**/*.test.js
