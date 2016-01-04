@@ -1,5 +1,5 @@
 {
-  "name": "tape-runner",
+  "name": "gaffer-tape",
   "version": "0.0.1",
   "description": "An opinionated Tape test execution runner",
   "bin": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/6RiverSystems/tape-runner.git"
+    "url": "git+https://github.com/6RiverSystems/gaffer-tape.git"
   },
   "keywords": [
     "tape",
@@ -23,9 +23,9 @@
   "author": "Joshua Chaitin-Pollak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/6RiverSystems/tape-runner/issues"
+    "url": "https://github.com/6RiverSystems/gaffer-tape/issues"
   },
-  "homepage": "https://github.com/6RiverSystems/tape-runner#readme",
+  "homepage": "https://github.com/6RiverSystems/gaffer-tape#readme",
   "dependencies": {
     "glob": "^6.0.3",
     "rx": "^4.0.7",
